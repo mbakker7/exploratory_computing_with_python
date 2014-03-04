@@ -12,8 +12,14 @@ The exercises should take less than 4 hours to complete for each Notebook.
 
 The following Notebooks are available: 
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/python_from_scratch/blob/master/notebook1/python_from_skratch_1.ipynb">Notebook 1</a>: 
+<a href="http://nbviewer.ipython.org/github/mbakker7/python_from_scratch/blob/master/notebook1/py_exploratory_comp_1.ipynb">Notebook 1</a>: 
 Basics and Plotting
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/python_from_scratch/blob/master/notebook2/python_from_scratch_2.ipynb">Notebook 2</a>: 
+<a href="http://nbviewer.ipython.org/github/mbakker7/python_from_scratch/blob/master/notebook2/py_exploratory_comp_2.ipynb">Notebook 2</a>: 
+Arrays, Lists, Strings, and Images
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/python_from_scratch/blob/master/notebook3/py_exploratory_comp_3.ipynb">Notebook 3</a>: 
+Arrays, Lists, Strings, and Images
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/python_from_scratch/blob/master/notebook4/py_exploratory_comp_4.ipynb">Notebook 4</a>: 
 Arrays, Lists, Strings, and Images
