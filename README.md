@@ -17,14 +17,27 @@ viewed by clicking on the links to the Notebook Viewer below.
 
 The following Notebooks are available (they are under development; more will follow soon): 
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_1.ipynb">Notebook 1</a>: 
+###Python Basics
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_1_sol.ipynb">Notebook 1</a>: 
 Basics and Plotting
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2/py_exploratory_comp_2.ipynb">Notebook 2</a>: 
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2/py_exploratory_comp_2_sol.ipynb">Notebook 2</a>: 
 Arrays and basic If statements
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3/py_exploratory_comp_3.ipynb">Notebook 3</a>: 
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3/py_exploratory_comp_3_sol.ipynb">Notebook 3</a>: 
 Loops and If/Else statements
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4.ipynb">Notebook 4</a>: 
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4_sol.ipynb">Notebook 4</a>: 
 Functions
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4_sol.ipynb">Notebook 4</a>: 
+Functions
+
+###Applications to Water Management
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm1/py_exp_comp_wm1_sol.ipynb">Notebook WM1</a>: 
+Manning's Equation and Emptying R|eservoir
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm2/py_exp_comp_wm2_sol.ipynb">Notebook WM2</a>: 
+Water Distribution Systems
