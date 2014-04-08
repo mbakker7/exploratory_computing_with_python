@@ -31,9 +31,6 @@ Loops and If/Else statements
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4_sol.ipynb">Notebook 4</a>: 
 Functions
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4_sol.ipynb">Notebook 4</a>: 
-Functions
-
 ###Applications to Water Management
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm1/py_exp_comp_wm1_sol.ipynb">Notebook WM1</a>: 
