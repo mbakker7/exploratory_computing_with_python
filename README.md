@@ -34,7 +34,10 @@ Functions
 ###Applications to Water Management
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm1/py_exp_comp_wm1_sol.ipynb">Notebook WM1</a>: 
-Manning's Equation and Emptying R|eservoir
+Time Series Data and Pandas
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm2/py_exp_comp_wm2_sol.ipynb">Notebook WM2</a>: 
+Manning's Equation and Emptying R|eservoir
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm2/py_exp_comp_wm3_sol.ipynb">Notebook WM3</a>: 
 Water Distribution Systems
