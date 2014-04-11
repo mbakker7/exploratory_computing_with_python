@@ -37,7 +37,14 @@ Functions
 Time Series Data and Pandas
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm2/py_exp_comp_wm2_sol.ipynb">Notebook WM2</a>: 
-Manning's Equation and Emptying R|eservoir
+Manning's Equation and Emptying Reservoir
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm3/py_exp_comp_wm3_sol.ipynb">Notebook WM3</a>: 
 Water Distribution Systems
+
+###Applications to Probability and Statistics
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s1/py_exp_comp_s1_sol.ipynb">Notebook S1</a>: 
+Discrete Random Variables
+
+###Some More Advanced Python Topics
