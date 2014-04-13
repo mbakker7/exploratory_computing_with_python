@@ -47,4 +47,7 @@ Water Distribution Systems
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s1/py_exp_comp_s1_sol.ipynb">Notebook S1</a>: 
 Discrete Random Variables
 
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s2/py_exp_comp_s2_sol.ipynb">Notebook S2</a>: 
+Continuous Random Variables
+
 ###Some More Advanced Python Topics
