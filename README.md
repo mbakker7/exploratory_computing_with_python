@@ -50,4 +50,7 @@ Discrete Random Variables
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s2/py_exp_comp_s2_sol.ipynb">Notebook S2</a>: 
 Continuous Random Variables
 
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb">Notebook S3</a>: 
+Distribution of the Mean, Hypothesis Tests, and the Central Limit Theorem
+
 ###Some More Advanced Python Topics
