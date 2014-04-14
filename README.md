@@ -54,3 +54,6 @@ Continuous Random Variables
 Distribution of the Mean, Hypothesis Tests, and the Central Limit Theorem
 
 ###Some More Advanced Python Topics
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv1/py_exp_comp_adv1_sol.ipynb">Notebook ADV1</a>: 
+Finding the Zero of a Function
