@@ -57,3 +57,9 @@ Distribution of the Mean, Hypothesis Tests, and the Central Limit Theorem
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv1/py_exp_comp_adv1_sol.ipynb">Notebook ADV1</a>: 
 Finding the Zero of a Function
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv2/py_exp_comp_adv2_sol.ipynb">Notebook ADV2</a>: 
+Systems of linear equations
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv3/py_exp_comp_adv3_sol.ipynb">Notebook ADV3</a>: 
+Object oriented programming
