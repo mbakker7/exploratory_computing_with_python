@@ -63,3 +63,7 @@ Systems of linear equations
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv3/py_exp_comp_adv3_sol.ipynb">Notebook ADV3</a>: 
 Object oriented programming
+
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv4/py_exp_comp_adv4_sol.ipynb">Notebook ADV4
+</a>: 
+Interactive Graphics with Matplotlib Widgets
