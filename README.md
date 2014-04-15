@@ -53,6 +53,9 @@ Continuous Random Variables
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb">Notebook S3</a>: 
 Distribution of the Mean, Hypothesis Tests, and the Central Limit Theorem
 
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s4/py_exp_comp_s4_sol.ipynb">Notebook S4</a>: 
+Linear regression and curve fitting
+
 ###Some More Advanced Python Topics
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv1/py_exp_comp_adv1_sol.ipynb">Notebook ADV1</a>: 
