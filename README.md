@@ -20,7 +20,7 @@ The following Notebooks are available (they are under development; more will fol
 ###Python Basics
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_1_sol.ipynb">Notebook 1</a>: 
-Basics and Plotting.  
+Basics and Plotting
 (version with empty output cells is 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_1.ipynb">here</a>)
 
