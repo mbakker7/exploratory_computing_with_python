@@ -27,7 +27,7 @@ Basics and Plotting
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2/py_exploratory_comp_2_sol.ipynb">Notebook 2</a>: 
 Arrays and basic If statements
 (version with empty output cells is 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2/py_exploratory_comp_1.ipynb">here</a>)
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2/py_exploratory_comp_2.ipynb">here</a>)
 
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3/py_exploratory_comp_3_sol.ipynb">Notebook 3</a>: 
