@@ -33,13 +33,13 @@ Arrays and basic If statements
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3/py_exploratory_comp_3_sol.ipynb">Notebook 3</a>: 
 Loops and If/Else statements
 (version with empty output cells is 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_3.ipynb">here</a>)
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3/py_exploratory_comp_3.ipynb">here</a>)
 
 
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4_sol.ipynb">Notebook 4</a>: 
 Functions
 (version with empty output cells is 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_4.ipynb">here</a>)
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4.ipynb">here</a>)
 
 
 ###Applications to Water Management
