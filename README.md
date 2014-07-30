@@ -4,9 +4,9 @@ Lots of books are written on scientific computing, but very few deal with the mu
 (a term coined by Fernando Perez), which represents daily tasks of many scientists and engineers that try to solve problems
 but are not computer scientists.
 This set of  Notebooks is written for scientists and engineers who want to use Python programming
-for exploratory computing, scipting, data analysis, and visualization. 
+for exploratory computing, scripting, data analysis, and visualization. 
 Python makes
-many of these programmig tasks quick and easy and, probably most importantly, fun.
+many of these programming tasks quick and easy and, probably most importantly, fun.
 
 No prior knowledge of computer programming is assumed. 
 Each Notebook covers a specific topic and includes a number of exercises. 
