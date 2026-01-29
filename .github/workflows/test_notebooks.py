@@ -9,12 +9,7 @@ from shutil import rmtree
 # paths
 CWD = Path(__file__).parent.resolve()
 BASE_DIR = CWD.parent.parent
-OUTPUT_DIR = CWD / ".nb_test_outputs"
-print(f"Base dir: {OUTPUT_DIR}")
-
-# if OUTPUT_DIR.exists():
-    # rmtree(OUTPUT_DIR)
-
+OUTPUT_DIR = CWD / ".ipynb_checkpoints"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 #%%
@@ -24,6 +19,8 @@ notebooks = []
 for path in BASE_DIR.iterdir():
     if path.is_dir():
         if any(ignored in path.name for ignored in notebooks_to_ignore):
+            continue
+        if ".github" in str(path):
             continue
         for nb in path.rglob("*_sol.ipynb"):
             notebooks.append(nb.resolve())
@@ -42,11 +39,12 @@ def test_notebook_runs(nb_path: Path) -> None:
 
 #%%
 @pytest.mark.parametrize("nb_path", notebooks, ids=lambda p: str(p))
-def test_notebook_runs_pytst(nb_path: Path) -> None:
-    test_notebook_runs(nb_path)
+def test_notebook_runs_pytest(nb_path: Path) -> None:
+    test_notebook_runs(nb_path=nb_path)
 
 # local test
-for nb_path in sorted(notebooks):
-    test_notebook_runs(nb_path)
+# for nb_path in sorted(notebooks):
+#     test_notebook_runs(nb_path)
+#     break
 # %%
 rmtree(OUTPUT_DIR)
