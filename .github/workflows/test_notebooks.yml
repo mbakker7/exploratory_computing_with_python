@@ -3,7 +3,7 @@ name: Test Notebooks
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     # Run on the first day of every month at 00:00 UTC
     - cron: '0 0 1 * *'
