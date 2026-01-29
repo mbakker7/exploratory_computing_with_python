@@ -7,20 +7,23 @@ from shutil import rmtree
 
 #%%
 # paths
-BASE_DIR = Path(__file__).parent.parent.parent
-OUTPUT_DIR = Path(__file__).parent / ".nb_test_outputs"
+CWD = Path(__file__).parent.resolve()
+BASE_DIR = CWD.parent.parent
+OUTPUT_DIR = CWD / ".nb_test_outputs"
+print(f"Base dir: {OUTPUT_DIR}")
 
-if OUTPUT_DIR.exists():
-    rmtree(OUTPUT_DIR)
+# if OUTPUT_DIR.exists():
+    # rmtree(OUTPUT_DIR)
 
-OUTPUT_DIR.mkdir(exist_ok=False)
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 #%%
 # Collect all notebooks you want to test
+notebooks_to_ignore = ["bugs", "wm", "s3", "s4"]
 notebooks = []
 for path in BASE_DIR.iterdir():
     if path.is_dir():
-        if path.name.endswith("_bugs"):
+        if any(ignored in path.name for ignored in notebooks_to_ignore):
             continue
         for nb in path.rglob("*_sol.ipynb"):
             notebooks.append(nb.resolve())
@@ -43,7 +46,7 @@ def test_notebook_runs_pytst(nb_path: Path) -> None:
     test_notebook_runs(nb_path)
 
 # local test
-# for nb_path in sorted(notebooks):
-    # test_notebook_runs(nb_path)
+for nb_path in sorted(notebooks):
+    test_notebook_runs(nb_path)
 # %%
 rmtree(OUTPUT_DIR)
