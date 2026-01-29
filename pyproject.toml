@@ -8,7 +8,15 @@ version = "0.1.0"
 description = "Python for Exploratory Computing Notebooks"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = ["ipykernel", "matplotlib", "numpy", "pandas", "pyqt6"]
+dependencies = [
+    "ipykernel",
+    "ipywidgets",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pyqt6",
+    "scipy",
+]
 
 maintainers = [{ name = "M. Bakker", email = "m.bakker@tudelft.nl" }]
 classifiers = [
@@ -17,13 +25,8 @@ classifiers = [
 ]
 
 [project.optional-dependencies]
-ci = ["ruff", "pytest", "papermill"]
+ci = ["pytest", "papermill"]
 
-[tool.ruff]
-extend-include = ["*.ipynb"]
-lint.extend-select = ["I"]
-show-fixes = true
-fix = true
 
 [tool.setuptools]
 packages = []
