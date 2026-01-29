@@ -90,3 +90,7 @@ ENV/
 .ropeproject
 
 .DS_Store
+
+*.egg-info/
+*.ipynb_checkpoints
+*.lock
