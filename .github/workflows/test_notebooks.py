@@ -11,7 +11,7 @@ BASE_DIR = CWD.parent.parent
 
 #%%
 # Collect all notebooks you want to test
-notebooks_to_ignore = ["bugs", "wm", "s3", "s4"]
+notebooks_to_ignore = ["bugs"]
 notebooks = []
 for path in BASE_DIR.iterdir():
     if path.is_dir():
