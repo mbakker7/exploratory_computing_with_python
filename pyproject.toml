@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=64.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "exploratory-computing-with-python"
+version = "0.1.0"
+description = "Python for Exploratory Computing Notebooks"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel",
+    "ipywidgets",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pyqt6",
+    "scipy",
+]
+
+maintainers = [{ name = "M. Bakker", email = "m.bakker@tudelft.nl" }]
+classifiers = [
+    'Intended Audience :: Science/Research',
+    'Programming Language :: Python :: 3 :: Only',
+]
+
+[project.optional-dependencies]
+ci = ["pytest", "papermill"]
+
+
+[tool.setuptools]
+packages = []
